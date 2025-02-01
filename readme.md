@@ -111,28 +111,3 @@ This API is deployed on [Render](https://render.com/). You can access it at:
 For more information on hiring Node.js developers, visit:  
 [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
 
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-````
-
----
-
-### **How to Use This Documentation**
-
-1. Replace placeholders (e.g., `myjoyhasarrived2004@gmail.com`, `TLTechbender`) with your actual details.
-2. Update the **Deployment** section with the URL of your deployed API.
-3. Save the file as `README.md` in the root of your project directory.
-4. Push the changes to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add project documentation"
-   git push origin main
-````
-
----
-
-This Markdown documentation meets all the requirements and provides a professional, user-friendly guide for anyone using or contributing to your project. Let me know if you need further assistance! 🚀
